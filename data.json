@@ -1,0 +1,50 @@
+[
+	{
+		"guid": "68160267-a6a5-4a41-8a51-d8735c8aa338",
+		"rating": 5,
+		"view_time": "2024-01-03 21:20",
+		"comment": "Great reverse engineering, mind-boggling findings, well and entertainingly presented. Occasionally fast-paced yet always wrapped up understandably."
+	},
+	{
+		"guid": "b3163149-505e-497e-9c75-7cb233b59fcd",
+		"rating": 5,
+		"view_time": "2023-12-30 14:21",
+		"comment": "Great hack value, well presented, and entertaining."
+	},
+	{
+		"guid": "3d4de6f8-242c-46c2-9683-1a7285d4e93e",
+		"rating": 5,
+		"view_time": "2023-12-29",
+		"comment": "Very entertaining."
+	},
+	{
+		"guid": "2a328f4e-6442-4e3c-811e-e63b3c425bd4",
+		"rating": 5,
+		"view_time": "2023-12-30",
+		"comment": "Very entertaining."
+	},
+	{
+		"guid": "a91c6e01-49cf-4227-baae-aece190e9de5",
+		"rating": 3,
+		"view_time": "2023-12-30 20:02",
+		"comment": "Impressive security research. The presentation is rather dense and therefore hard to follow."
+	},
+	{
+		"guid": "f05ac86f-96bd-4888-908b-11742b381074",
+		"rating": 4,
+		"view_time": "2023-12-31 19:47",
+		"comment": "Entertaining. Occasionally a bit hard to follow the slides."
+	},
+	{
+		"guid": "fddf9aa7-4952-497e-b706-2e802deef3cc",
+		"rating": 5,
+		"view_time": "2024-01-04 17:40",
+		"comment": "Neben der üblichen Einführung wird die Hacker-Ethik mit persönlichen Geschichten und aktuellen Ereignissen verbunden."
+	},
+	{
+		"guid": "9ab1407a-126f-48d9-898d-eae7974324e9",
+		"rating": 5,
+		"view_time": "2024-01-04 10:45",
+		"comment": "Well presented and entertaining. As (cable) modems from internet providers often come bundled with router functionality nowadays, you might prefer using (at least) your own router after watching this talk."
+	}
+]

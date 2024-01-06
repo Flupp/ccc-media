@@ -1,0 +1,83 @@
+html {
+	background-color: #EEE;
+	color: black;
+	font-family: Helvetica, Arial, sans-serif;
+}
+body {
+	background-color: white;
+	color: black;
+}
+body, html, input {
+	margin: 0;
+	padding: 0;
+}
+header, main {
+	margin: 0;
+	padding: 0 0.5rem;
+}
+h1 {
+	background-color: #EEE;
+	color: black;
+	margin: 0;
+	padding: 0.5rem;
+	text-align: center;
+}
+h2 .separator {
+	font-size: smaller;
+}
+h2 .subtitle {
+	font-size: smaller;
+}
+dl, dt, dd {
+	display: inline;
+	margin: 0;
+}
+dt {
+	font-size: smaller;
+}
+.description {
+	font-size: smaller;
+}
+.description p {
+	margin-top: 0.5em;
+	margin-bottom: 0.5em;
+}
+.stars {
+	font-size: larger;
+}
+.thumb {
+	float: left;
+	margin-right: 0.5em;
+	max-width: 100%;
+}
+.misc {
+	background-color: white;
+	color: gray;
+	font-size: smaller;
+}
+.timeline {
+	clear: both;
+	width: 100%;
+}
+.timeline img {
+	height: 1em;
+	margin-top: 0.5em;
+	width: 100%;
+}
+li {
+	margin-top: 1.5em;
+}
+/* https://css-tricks.com/minimum-paragraph-widths/#aa-general-case-solution-using-pseudo-element */
+li p:before {
+	content: "";
+	width: 10em;
+	display: block;
+	overflow: hidden;
+}
+footer {
+	background-color: #EEE;
+	color: black;
+	margin: 1rem 0 0;
+	padding: 0.5rem;
+	text-align: center;
+}
